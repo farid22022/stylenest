@@ -1,0 +1,1 @@
+<?php get_header(); ?><main class="site-main container section"><h1>Page not found</h1><p>Try browsing the <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>">shop</a>.</p></main><?php get_footer(); ?>

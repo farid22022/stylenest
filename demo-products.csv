@@ -1,0 +1,9 @@
+Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Regular price,Categories,Stock,In stock?
+simple,SN-M-001,Classic Cotton T-Shirt,1,1,visible,"Soft everyday cotton tee","A relaxed cotton T-shirt for easy everyday styling.",550,Men,25,1
+simple,SN-M-002,Casual Oxford Shirt,1,1,visible,"A polished casual shirt","A versatile Oxford shirt for workdays and weekends.",950,Men,15,1
+simple,SN-M-003,Slim Fit Denim Jeans,1,0,visible,"Everyday slim denim","Comfortable denim with a clean slim silhouette.",1350,Men,12,1
+simple,SN-W-001,Floral Kurti,1,1,visible,"Printed kurti for easy dressing","A bright floral kurti designed for comfortable everyday wear.",850,Women,18,1
+simple,SN-W-002,Casual Women's Top,1,0,visible,"An easy wardrobe top","A lightweight top that pairs with denim or skirts.",650,Women,20,1
+simple,SN-M-004,Cotton Panjabi,1,1,visible,"Classic cotton panjabi","A comfortable traditional cotton panjabi.",1200,Men,10,1
+simple,SN-K-001,Kids' Printed T-Shirt,1,0,visible,"Playful printed tee","A soft, easy-care T-shirt for active days.",400,Kids,20,1
+simple,SN-A-001,Canvas Tote Bag,1,0,visible,"Reusable canvas tote","A sturdy everyday tote for books, groceries, and more.",350,Accessories,30,1
